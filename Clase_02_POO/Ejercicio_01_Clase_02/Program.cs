@@ -54,7 +54,6 @@ namespace Ejercicio_01_Clase_02
             cuenta01.Ingresar(ingreso2);
             cuenta01.Mostrar(cuenta01);
             Console.ReadLine();
-
         }
     }
 
