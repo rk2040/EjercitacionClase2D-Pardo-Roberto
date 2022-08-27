@@ -1,0 +1,16 @@
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\bin\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.exe
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\bin\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.deps.json
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\bin\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.runtimeconfig.json
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\bin\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.runtimeconfig.dev.json
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\bin\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.dll
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\bin\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.pdb
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.csproj.AssemblyReference.cache
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.AssemblyInfoInputs.cache
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.AssemblyInfo.cs
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.csproj.CoreCompileInputs.cache
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.dll
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\refint\Ejercicio_01_Clase_01_ClasesYMetEstaticos.dll
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.pdb
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\Ejercicio_01_Clase_01_ClasesYMetEstaticos.genruntimeconfig.cache
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_01_ClasesYMetEstaticos\obj\Debug\net5.0\ref\Ejercicio_01_Clase_01_ClasesYMetEstaticos.dll
