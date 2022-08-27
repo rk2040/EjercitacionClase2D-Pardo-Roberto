@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio_02_Clase_01_ClasesYMetEstaticos/1.0.0": {
+        "runtime": {
+          "Ejercicio_02_Clase_01_ClasesYMetEstaticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_02_Clase_01_ClasesYMetEstaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

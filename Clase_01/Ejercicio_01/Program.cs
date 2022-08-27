@@ -17,7 +17,7 @@ namespace Ejercicio_01
             int numeroMinimo = int.MaxValue;
             int acumuladorDeNumeros = 0;
             int cantidadDeNumeros = 0;
-            float promedioNumIngresados;
+            float promedioNumIngresados = 0.0f;
 
             for (int i = 0; i < 5; i++)
             {
@@ -99,7 +99,7 @@ namespace Ejercicio_01
 
         static float promedio(int num1, int num2)
         {
-            float resultado =  num1 / num2;
+            float resultado = (float)  num1 / num2;
 
             return resultado;
         }
