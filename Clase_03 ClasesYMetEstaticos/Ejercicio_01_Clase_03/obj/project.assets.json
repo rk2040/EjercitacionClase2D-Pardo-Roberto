@@ -1,29 +1,12 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Biblioteca/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Biblioteca.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Biblioteca.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Biblioteca/1.0.0": {
-      "type": "project",
-      "path": "../Biblioteca/Biblioteca.csproj",
-      "msbuildProject": "../Biblioteca/Biblioteca.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Biblioteca >= 1.0.0"
+      "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Biblioteca\\Biblioteca.csproj"
     ]
   },
   "packageFolders": {
@@ -33,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UTN\\2022 2do CUATRI\\Labo 2\\Labo 2\\Ejercicio_01_Clase_03\\Ejercicio_01_Clase_03.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Ejercicio_01_Clase_03\\Ejercicio_01_Clase_03.csproj",
       "projectName": "Ejercicio_01_Clase_03",
-      "projectPath": "E:\\UTN\\2022 2do CUATRI\\Labo 2\\Labo 2\\Ejercicio_01_Clase_03\\Ejercicio_01_Clase_03.csproj",
+      "projectPath": "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Ejercicio_01_Clase_03\\Ejercicio_01_Clase_03.csproj",
       "packagesPath": "C:\\Users\\Roberto i3\\.nuget\\packages\\",
-      "outputPath": "E:\\UTN\\2022 2do CUATRI\\Labo 2\\Labo 2\\Ejercicio_01_Clase_03\\obj\\",
+      "outputPath": "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Ejercicio_01_Clase_03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +41,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\UTN\\2022 2do CUATRI\\Labo 2\\Labo 2\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "E:\\UTN\\2022 2do CUATRI\\Labo 2\\Labo 2\\Biblioteca\\Biblioteca.csproj"
+            "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }
@@ -91,5 +74,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Biblioteca\\Biblioteca.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Biblioteca\\Biblioteca.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

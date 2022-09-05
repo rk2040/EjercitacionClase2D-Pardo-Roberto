@@ -17,3 +17,6 @@ E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_03\obj\Debug\net5.0\refi
 E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_03\obj\Debug\net5.0\Ejercicio_01_Clase_03.pdb
 E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_03\obj\Debug\net5.0\Ejercicio_01_Clase_03.genruntimeconfig.cache
 E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Ejercicio_01_Clase_03\obj\Debug\net5.0\ref\Ejercicio_01_Clase_03.dll
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_03 ClasesYMetEstaticos\Ejercicio_01_Clase_03\obj\Debug\net5.0\Ejercicio_01_Clase_03.dll
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_03 ClasesYMetEstaticos\Ejercicio_01_Clase_03\obj\Debug\net5.0\refint\Ejercicio_01_Clase_03.dll
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_03 ClasesYMetEstaticos\Ejercicio_01_Clase_03\obj\Debug\net5.0\Ejercicio_01_Clase_03.pdb
