@@ -14,3 +14,19 @@ E:\UTN\2022 2do CUATRI\Labo 2\Proyecto1\Ejercicio_01_Clase_02\obj\Debug\net5.0\r
 E:\UTN\2022 2do CUATRI\Labo 2\Proyecto1\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.pdb
 E:\UTN\2022 2do CUATRI\Labo 2\Proyecto1\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.genruntimeconfig.cache
 E:\UTN\2022 2do CUATRI\Labo 2\Proyecto1\Ejercicio_01_Clase_02\obj\Debug\net5.0\ref\Ejercicio_01_Clase_02.dll
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\bin\Debug\net5.0\Ejercicio_01_Clase_02.exe
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\bin\Debug\net5.0\Ejercicio_01_Clase_02.deps.json
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\bin\Debug\net5.0\Ejercicio_01_Clase_02.runtimeconfig.json
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\bin\Debug\net5.0\Ejercicio_01_Clase_02.runtimeconfig.dev.json
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\bin\Debug\net5.0\Ejercicio_01_Clase_02.dll
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\bin\Debug\net5.0\Ejercicio_01_Clase_02.pdb
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.csproj.AssemblyReference.cache
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.AssemblyInfoInputs.cache
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.AssemblyInfo.cs
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.csproj.CoreCompileInputs.cache
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.dll
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\refint\Ejercicio_01_Clase_02.dll
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.pdb
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\Ejercicio_01_Clase_02.genruntimeconfig.cache
+C:\Users\Roberto i3\Desktop\EjercitacionClase2D-Pardo-Roberto\Clase_02_POO\Ejercicio_01_Clase_02\obj\Debug\net5.0\ref\Ejercicio_01_Clase_02.dll

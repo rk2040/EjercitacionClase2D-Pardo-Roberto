@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UTN\\2022 2do CUATRI\\Labo 2\\Labo 2\\Ejercicio_02_Clase_01_ClasesYMetEstaticos\\Ejercicio_02_Clase_01_ClasesYMetEstaticos.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_01_ClasesYMetodosEstaticos\\Ejercicio_02_Clase_01_ClasesYMetEstaticos\\Ejercicio_02_Clase_01_ClasesYMetEstaticos.csproj",
       "projectName": "Ejercicio_02_Clase_01_ClasesYMetEstaticos",
-      "projectPath": "E:\\UTN\\2022 2do CUATRI\\Labo 2\\Labo 2\\Ejercicio_02_Clase_01_ClasesYMetEstaticos\\Ejercicio_02_Clase_01_ClasesYMetEstaticos.csproj",
+      "projectPath": "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_01_ClasesYMetodosEstaticos\\Ejercicio_02_Clase_01_ClasesYMetEstaticos\\Ejercicio_02_Clase_01_ClasesYMetEstaticos.csproj",
       "packagesPath": "C:\\Users\\Roberto i3\\.nuget\\packages\\",
-      "outputPath": "E:\\UTN\\2022 2do CUATRI\\Labo 2\\Labo 2\\Ejercicio_02_Clase_01_ClasesYMetEstaticos\\obj\\",
+      "outputPath": "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_01_ClasesYMetodosEstaticos\\Ejercicio_02_Clase_01_ClasesYMetEstaticos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

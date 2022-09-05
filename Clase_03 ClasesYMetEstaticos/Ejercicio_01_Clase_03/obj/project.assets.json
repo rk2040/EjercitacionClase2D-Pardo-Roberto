@@ -77,9 +77,9 @@
   },
   "logs": [
     {
-      "code": "NU1104",
+      "code": "NU1105",
       "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Biblioteca\\Biblioteca.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "message": "No se encuentra información del proyecto para \"C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Biblioteca\\Biblioteca.csproj\". Si está usando Visual Studio, puede deberse a que el proyecto no se haya cargado o no forme parte de la solución actual, por lo que debe ejecutar una restauración desde la línea de comandos. De lo contrario, puede que el archivo del proyecto no sea válido o que falten destinos necesarios para la restauración.",
       "libraryId": "C:\\Users\\Roberto i3\\Desktop\\EjercitacionClase2D-Pardo-Roberto\\Clase_03 ClasesYMetEstaticos\\Biblioteca\\Biblioteca.csproj",
       "targetGraphs": [
         "net5.0"
