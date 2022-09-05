@@ -1,0 +1,12 @@
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+E:\UTN\2022 2do CUATRI\Labo 2\Labo 2\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

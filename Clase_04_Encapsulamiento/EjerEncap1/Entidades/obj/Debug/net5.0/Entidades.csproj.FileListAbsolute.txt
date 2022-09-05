@@ -10,3 +10,15 @@ D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.dll
 D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
 D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.pdb
 D:\PrograYLaboII\EjerEncap1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\Entidades\obj\Debug\net5.0\ref\Entidades.dll

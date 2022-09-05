@@ -17,14 +17,35 @@ namespace Entidades
             this.legajo = legajo;
         }
 
+        public Alumno(string apellido, string nombre, int legajo, int nota1, int nota2) :this(apellido,nombre,legajo)
+        {
+            this.nota1 = nota1;
+            this.nota2 = nota2;
+        }
+
 
         public int Nota1
         {
             set
             {
-                if
+                if(nota1 != value)
+                {
+                    nota1 = value;
+                }
             }
         }
+
+        public int Nota2
+        {
+            set
+            {
+                if (nota2 != value)
+                {
+                    nota2 = value;
+                }
+            }
+        }
+
         public string Apellido
         {
             set

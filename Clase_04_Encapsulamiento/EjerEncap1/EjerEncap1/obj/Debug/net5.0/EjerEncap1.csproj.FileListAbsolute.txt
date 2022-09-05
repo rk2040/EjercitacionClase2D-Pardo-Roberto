@@ -17,3 +17,22 @@ D:\PrograYLaboII\EjerEncap1\EjerEncap1\obj\Debug\net5.0\refint\EjerEncap1.dll
 D:\PrograYLaboII\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.pdb
 D:\PrograYLaboII\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.genruntimeconfig.cache
 D:\PrograYLaboII\EjerEncap1\EjerEncap1\obj\Debug\net5.0\ref\EjerEncap1.dll
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\bin\Debug\net5.0\EjerEncap1.exe
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\bin\Debug\net5.0\EjerEncap1.deps.json
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\bin\Debug\net5.0\EjerEncap1.runtimeconfig.json
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\bin\Debug\net5.0\EjerEncap1.runtimeconfig.dev.json
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\bin\Debug\net5.0\EjerEncap1.dll
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\bin\Debug\net5.0\EjerEncap1.pdb
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\bin\Debug\net5.0\Entidades.dll
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.csproj.AssemblyReference.cache
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.AssemblyInfoInputs.cache
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.AssemblyInfo.cs
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.csproj.CoreCompileInputs.cache
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.csproj.CopyComplete
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.dll
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\refint\EjerEncap1.dll
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.pdb
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\EjerEncap1.genruntimeconfig.cache
+C:\Users\Roberto i3\Downloads\EjerEncap1\EjerEncap1\EjerEncap1\obj\Debug\net5.0\ref\EjerEncap1.dll
